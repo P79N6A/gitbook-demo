@@ -1,0 +1,24 @@
+{
+    "title": "在线教育后台博客系统",
+    "language": "zh-hans",
+    "plugins": [
+	    "-search",
+		"git-author"
+    ],
+    "pluginsConfig": {
+		"search":{
+			"maxIndexSize": 100000
+		},
+		"git-author":{
+              "position": "bottom",
+              "modifyTpl": "Last modified by {user} {timeStamp}",
+              "createTpl": "Created by {user} {timeStamp}",
+              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+        }
+    },
+    "links": {
+        "sidebar": {
+            
+        }
+    }
+}
