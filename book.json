@@ -10,15 +10,18 @@
 			"maxIndexSize": 100000
 		},
 		"git-author":{
-              "position": "bottom",
-              "modifyTpl": "Last modified by {user} {timeStamp}",
-              "createTpl": "Created by {user} {timeStamp}",
-              "timeStampFormat": "YYYY-MM-DD HH:mm:ss"
+              "position": "top",
+              "createTpl": "{user} 创建于 {timeStamp} , ",
+              "modifyTpl": "{user} 更新于 {timeStamp} , ",
+              "timeStampFormat": "YYYY-MM-DD"
         }
     },
     "links": {
         "sidebar": {
             
         }
+    },
+    "styles": {
+        "website": "./styles/author.css"
     }
 }
