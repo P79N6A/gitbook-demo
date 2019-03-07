@@ -1,0 +1,18 @@
+.git-author-container {
+    text-align: left;
+}
+.git-author-top {
+    float: left;
+}
+.git-author-container .created {
+    display:inline;
+}
+.git-author-top .created {
+    display:inline;
+}
+.git-author-container .modified {
+    display:inline;
+}
+.git-author-top .modified {
+    display:inline;
+}
