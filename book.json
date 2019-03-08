@@ -12,7 +12,7 @@
 		"git-author":{
               "position": "top",
               "createTpl": "{user} 创建于 {timeStamp} , ",
-              "modifyTpl": "{user} 更新于 {timeStamp} , ",
+              "modifyTpl": "{user} 更新于 {timeStamp}",
               "timeStampFormat": "YYYY-MM-DD"
         }
     },

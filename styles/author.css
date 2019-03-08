@@ -1,11 +1,16 @@
 .git-author-container {
     text-align: left;
+    color: #858585;
+    border-left:4px solid #e5e5e5
 }
 .git-author-top {
     float: left;
+    color: #858585;
+    border-left:4px solid #e5e5e5
 }
 .git-author-container .created {
     display:inline;
+    margin-inline-start: 1em;
 }
 .git-author-top .created {
     display:inline;
