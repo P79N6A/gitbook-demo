@@ -21,3 +21,10 @@
 .git-author-top .modified {
     display:inline;
 }
+.git-author-container .edit {
+    display:inline;
+    margin-inline-start: 2em;
+}
+.git-author-top .edit {
+    display:inline;
+}

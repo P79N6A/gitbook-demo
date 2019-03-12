@@ -13,7 +13,8 @@
               "position": "top",
               "createTpl": "{user} 创建于 {timeStamp} , ",
               "modifyTpl": "{user} 更新于 {timeStamp}",
-              "timeStampFormat": "YYYY-MM-DD"
+              "timeStampFormat": "YYYY-MM-DD",
+			  "editPrefix": "https://git.code.oa.com/SNG_EDU_COMMON_PKG/edu_wiki_pages/blob/master/"
         }
     },
     "links": {
