@@ -1,0 +1,21 @@
+.page-footer {
+  margin-top: 50px;
+  border-top: 1px solid #ccc;
+  overflow: hidden;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #808080;
+}
+.page-footer a {
+  text-decoration: underline!important;
+}
+.footer-created {
+  float: left;
+}
+.footer-updated {
+  float: left;
+  margin-inline-start: 1em;
+}
+.footer-edit {
+  float: right;
+}
